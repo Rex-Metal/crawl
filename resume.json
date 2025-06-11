@@ -1,0 +1,118 @@
+{
+  "name": "Faizan Shaikh",
+  "email": "faizanvit8@gmail.com",
+  "phone": "+918668846751",
+  "location": "Pune, India",
+  "linkedin": "linkedin.com/Faizan_Shaikh",
+  "education": [
+    {
+      "institution": "Savitribai Phule Pune University",
+      "degree": "B.E in Computer Engineering",
+      "location": "Pune, India",
+      "grade": "A"
+    },
+    {
+      "institution": "Moladina Junior College",
+      "board": "Maharashtra State Board",
+      "location": "Pune, India"
+    },
+    {
+      "institution": "Vishwakarma Vidyalaya School",
+      "board": "Maharashtra State Board",
+      "location": "Pune, India"
+    }
+  ],
+  "coursework": [
+    "Blockchain",
+    "Data Science",
+    "Advanced Machine Learning",
+    "Data Analyst",
+    "Cloud Computing",
+    "OOPS",
+    "Data Structure",
+    "Google-Coursera"
+  ],
+  "skills": {
+    "programming": [
+      "Python",
+      "Haskell",
+      "TypeScript",
+      "JavaScript",
+      "SQL"
+    ],
+    "tools": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "operating_systems": [
+      "Linux",
+      "Windows"
+    ]
+  },
+  "certifications": [
+    "PGP Course in Data Science",
+    "PGP Course in Python",
+    "January 2022 Data Science and Machine Learning",
+    "January 2022 Virtual Experience Program participant",
+    "November 2021 Data Exploration",
+    "August 2021 Machine learning"
+  ],
+  "projects": [
+    {
+      "name": "Talendro",
+      "achievements": [
+        "50% Reduction in payment disputes by implementing Smart Contracts for secure, automated transactions and reputation staking on Cardano",
+        "Decentralized Dispute Resolution, ensuring 100% fair and transparent conflict management between freelancers and clients"
+      ]
+    },
+    {
+      "name": "NFT Minter Module",
+      "achievements": [
+        "Architected a comprehensive module for NFT minting, transmission, and acquisition",
+        "Integrated MeshJS for efficient blockchain interactions and transaction optimization",
+        "Employed React for a dynamic and user-centric front-end interface"
+      ]
+    },
+    {
+      "name": "Amazon Fine Food Review",
+      "achievements": [
+        "Built a project based on NLP tools to derive a pellucid understanding of the customer review and to extract the insights from the model",
+        "The KNN algorithm is utilized to predict primarily associated outcomes based on ratings"
+      ]
+    }
+  ],
+  "awards": [
+    "Won NATIONAL medal in karate",
+    "Best player of the year",
+    "Secured 3 medals on Kaggle"
+  ],
+  "experience": [
+    {
+      "company": "L&D Infotec",
+      "role": "Data Scientist Intern",
+      "duration": "June 2021 - Dec 2021",
+      "location": "Pune",
+      "responsibilities": [
+        "Conducted data processing and analysis using NumPy and Pandas, uncovering key relationships"
+      ]
+    },
+    {
+      "company": "Mynth",
+      "role": "Developer",
+      "duration": "Jan 2024 - July 2024",
+      "responsibilities": [
+        "Developed on-chain services on the Cardano blockchain, collaborating closely with Infrastructure and Smart Contract Development teams",
+        "Created and managed containers, overseeing code management, and utilizing diverse infrastructure tools to streamline operations"
+      ]
+    },
+    {
+      "company": "Konma",
+      "role": "Blockchain Developer",
+      "duration": "Feb 2023 - Apr 2024",
+      "responsibilities": [
+        "Developed smart contracts using Aiken, Haskell, improving security and functionality of blockchain applications",
+        "Gained hands-on experience with Marlowe, creating financial contracts on Cardano blockchain"
+      ]
+    }
+  ]
+}
