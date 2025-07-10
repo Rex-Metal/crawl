@@ -1,118 +1,86 @@
 {
-  "name": "Faizan Shaikh",
-  "email": "faizanvit8@gmail.com",
-  "phone": "+918668846751",
+  "name": "Swadig Attar",
+  "email": "sadikattar7861@gmail.com",
+  "phone": "+918788503337",
   "location": "Pune, India",
-  "linkedin": "linkedin.com/Faizan_Shaikh",
+
   "education": [
     {
       "institution": "Savitribai Phule Pune University",
-      "degree": "B.E in Computer Engineering",
+      "degree": "B.C.A",
       "location": "Pune, India",
-      "grade": "A"
     },
-    {
-      "institution": "Moladina Junior College",
-      "board": "Maharashtra State Board",
-      "location": "Pune, India"
-    },
-    {
-      "institution": "Vishwakarma Vidyalaya School",
-      "board": "Maharashtra State Board",
-      "location": "Pune, India"
-    }
+
   ],
   "coursework": [
-    "Blockchain",
-    "Data Science",
-    "Advanced Machine Learning",
-    "Data Analyst",
+    "Operating Systems",
+    "Computer Networks",
+    "Hardware Troubleshooting",
     "Cloud Computing",
-    "OOPS",
-    "Data Structure",
-    "Google-Coursera"
+    "ITIL Fundamentals",
+    "System Administration",
+    "Data Structure"
   ],
   "skills": {
-    "programming": [
-      "Python",
-      "Haskell",
-      "TypeScript",
-      "JavaScript",
-      "SQL"
+    "technical_support": [
+      "Windows Troubleshooting",
+      "Linux Administration",
+      "User Account Management",
+      "Active Directory",
+      "Remote Desktop Support",
+      "Network Configuration",
+      "Printer & Hardware Setup",
+      "Ticketing Tools (ServiceNow, Jira)"
     ],
     "tools": [
-      "Docker",
-      "Kubernetes"
+      "JIRA",
+      "ServiceNow"
     ],
     "operating_systems": [
       "Linux",
       "Windows"
     ]
   },
-  "certifications": [
-    "PGP Course in Data Science",
-    "PGP Course in Python",
-    "January 2022 Data Science and Machine Learning",
-    "January 2022 Virtual Experience Program participant",
-    "November 2021 Data Exploration",
-    "August 2021 Machine learning"
-  ],
-  "projects": [
-    {
-      "name": "Talendro",
-      "achievements": [
-        "50% Reduction in payment disputes by implementing Smart Contracts for secure, automated transactions and reputation staking on Cardano",
-        "Decentralized Dispute Resolution, ensuring 100% fair and transparent conflict management between freelancers and clients"
-      ]
-    },
-    {
-      "name": "NFT Minter Module",
-      "achievements": [
-        "Architected a comprehensive module for NFT minting, transmission, and acquisition",
-        "Integrated MeshJS for efficient blockchain interactions and transaction optimization",
-        "Employed React for a dynamic and user-centric front-end interface"
-      ]
-    },
-    {
-      "name": "Amazon Fine Food Review",
-      "achievements": [
-        "Built a project based on NLP tools to derive a pellucid understanding of the customer review and to extract the insights from the model",
-        "The KNN algorithm is utilized to predict primarily associated outcomes based on ratings"
-      ]
-    }
-  ],
+
   "awards": [
-    "Won NATIONAL medal in karate",
-    "Best player of the year",
-    "Secured 3 medals on Kaggle"
+    Received the "Employee of the Quarter" accolade twice
+for consistent excellence and reliability.
   ],
   "experience": [
-    {
-      "company": "L&D Infotec",
-      "role": "Data Scientist Intern",
-      "duration": "June 2021 - Dec 2021",
-      "location": "Pune",
-      "responsibilities": [
-        "Conducted data processing and analysis using NumPy and Pandas, uncovering key relationships"
-      ]
-    },
-    {
-      "company": "Mynth",
-      "role": "Developer",
-      "duration": "Jan 2024 - July 2024",
-      "responsibilities": [
-        "Developed on-chain services on the Cardano blockchain, collaborating closely with Infrastructure and Smart Contract Development teams",
-        "Created and managed containers, overseeing code management, and utilizing diverse infrastructure tools to streamline operations"
-      ]
-    },
-    {
-      "company": "Konma",
-      "role": "Blockchain Developer",
-      "duration": "Feb 2023 - Apr 2024",
-      "responsibilities": [
-        "Developed smart contracts using Aiken, Haskell, improving security and functionality of blockchain applications",
-        "Gained hands-on experience with Marlowe, creating financial contracts on Cardano blockchain"
-      ]
-    }
-  ]
+  {
+    "company": "Cotiviti India Pvt. Ltd.",
+    "role": "System Administrator",
+    "duration": "Feb 2024 – Present",
+    "location": "Pune, India",
+    "responsibilities": [
+      "Manage and monitor company servers and IT infrastructure for performance and availability",
+      "Install, configure, and maintain operating systems, software, and security patches",
+      "Troubleshoot system and network issues, ensuring minimal downtime",
+      "Administer user accounts, permissions, and access controls via Active Directory",
+      "Work on JIRA for issue tracking and ticket management",
+      "Support remote users using tools like Remote Desktop, VPN, and SCCM",
+      "Perform regular audits, patch updates, system backups, and recovery operations",
+      "Coordinate infrastructure upgrades and migrations with cross-functional IT teams",
+      "Manage Workspace ONE (WS1 Console) and Intelligent Hub for device provisioning",
+      "Implement and manage Okta policies; add/remove users from Okta groups",
+      "Liaise with Microsoft and Lenovo support for issue resolution, asset damage claims, and vendor     coordination"
+    ]
+  },
+  {
+    "company": "Altruist Technologies Pvt. Ltd.",
+    "role": "Desktop Support Engineer",
+    "duration": "2023 – 2024",
+    "location": "Pune, India",
+    "responsibilities": [
+      "Provided technical support for desktops, laptops, printers, and peripheral devices",
+      "Installed and configured Windows OS, system drivers, and common enterprise applications",
+      "Managed user onboarding/offboarding, password resets, and Outlook email setup",
+      "Resolved hardware, software, and basic network connectivity issues via ticketing system",
+      "Maintained LAN/WAN setups and performed IP and DNS configurations",
+      "Maintained IT asset inventory and ensured proper documentation",
+      "Coordinated with hardware vendors for replacements and warranty claims",
+      "Educated end-users on best IT practices and provided first-level troubleshooting assistance"
+    ]
+  },
+]
 }
